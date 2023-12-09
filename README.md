@@ -11,5 +11,5 @@ The main components of tumour classification are:
 <ul>
   <li>Preprocessing the acquired dataset</li>
   <li>Splitting them into testing and training datasets</li>
-  <li>Followed by training and evaluation</li>
+  <li>Followed by training, testing and evaluation</li>
 </ul>
